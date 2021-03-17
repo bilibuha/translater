@@ -1,1 +1,1 @@
-web: python telegabot.py
+bot: python telegabot.py

@@ -6,7 +6,6 @@ idna==2.10
 urllib3==1.26.4
 requests==2.25.1
 google_trans_new==1.1.9
-PyTelegramBotAPI==2.2.3
 PyTelegramBotAPI==3.6.7
 telebot
 virtualenv
